@@ -1,4 +1,3 @@
-# Pls-donate-double-instance-anti-kicker
 WARNING: IT MAY NOT WORK ON SMALLER SCREEN SIZE/NO AD BLOCKER I HIGHLY SUGGEST 1920X1080 AND ADBLOCKER (adblock is for rejoining one)
 step 1. Load your 2 instances/games (only works on 1920x1080 windowed screen is suggested - Use xbox app or something that a second roblox can load up on)
 step 2. Grab one instance (drag it) and push it to the side of the screen until you see a ghost instance taking half of the screen
@@ -13,4 +12,6 @@ and the password/account id is: ENokcYSKQS1XsrhrqKC6j+ieiSJkwolCD9ZBFro59VlmwKz/
 
 FOR REJOINING:
 
-step 1. Load your 2 instances/games and browser. Drag the half screen instance to the LEFT side of the screen and put the second roblox in the BOTTOM RIGHT CORNER. Browser goes in the empty space. Get on roblox
+step 1. Load your 2 instances/games and browser. Drag the half screen instance to the LEFT side of the screen and put the second roblox in the BOTTOM RIGHT CORNER. Browser goes in the empty space. Get on roblox and then pls donate. Start the macro. You're good from there
+
+SIDE NOTE: I AM UNAWARE OF THE POTENTIALLY UNWORKABLE FEATURES OF THIS WITH DIFFERENT BROWSERS I USE OPERA GX. IF YOU USE OTHERWISE YOU MAY HAVE PROBLEMS
